@@ -1,0 +1,26 @@
+{
+  "name": "jquery-mousehold",
+  "version": "1.0.0",
+  "description": "Remy Sharp's jquery.mousehold.js plugin.",
+  "main": "jquery.mousehold.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurkovBA/jquery-mousehold.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "mouse",
+    "event",
+    "mousehold"
+  ],
+  "author": "Remy Sharp (leftlogic.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BurkovBA/jquery-mousehold/issues"
+  },
+  "homepage": "https://github.com/BurkovBA/jquery-mousehold#readme"
+}
