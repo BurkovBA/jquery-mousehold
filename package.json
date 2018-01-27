@@ -1,5 +1,5 @@
 {
-  "name": "jquery-mousehold",
+  "name": "jquery.mousehold",
   "version": "1.0.0",
   "description": "Remy Sharp's jquery.mousehold.js plugin.",
   "main": "jquery.mousehold.js",
